@@ -1,0 +1,11 @@
+/* Defining Variables */
+:root {
+    --color-bg: #ffffff;
+    --font-family: 'Roboto', sans-serif;
+}
+
+/* Defining styles */
+body {
+    background-color: var(--color-bg);
+    font-family: var(--font-family);
+}

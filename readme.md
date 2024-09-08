@@ -1,6 +1,6 @@
 # Pyramid Three.js
 
-![Pyramid Three.js](readme.jpeg)
+![Pyramid Three.js](readme.jpg)
 
 ## Overview
 
